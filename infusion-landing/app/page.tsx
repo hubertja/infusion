@@ -66,7 +66,7 @@ export default function Home() {
               <h3 className="text-2xl py-10 sm:text-2xl">Ignite <b>workforce productivity</b> and <b>automation capabilities</b>.</h3>
 
               <p className="text-xl">
-                We're an <b>AI consulting services studio</b>.<br />We work with clients of all sizes to <b>strategize</b>, <b>evangelize</b>, <b>integrate</b> or <b>build</b> AI solutions that are <b>safe</b>, <b>robust</b> and <b>tailored</b> to their needs.
+                We&apos;re an <b>AI consulting services studio</b>.<br />We work with clients of all sizes to <b>strategize</b>, <b>evangelize</b>, <b>integrate</b> or <b>build</b> AI solutions that are <b>safe</b>, <b>robust</b> and <b>tailored</b> to their needs.
               </p>
 
               <a className="mt-8 group inline-block rounded-full bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 p-[3px] hover:text-white focus:outline-none focus:ring active:text-opacity-75" href="#" >
